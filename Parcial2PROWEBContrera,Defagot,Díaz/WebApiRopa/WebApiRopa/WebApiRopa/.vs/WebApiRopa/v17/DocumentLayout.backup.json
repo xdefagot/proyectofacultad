@@ -1,0 +1,174 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\parcial2proweb\\WebApiRopa\\WebApiRopa\\WebApiRopa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49ABB21B-AE34-4AFD-9C8D-8D4794334139}|WebApiRopa.csproj|c:\\parcial2proweb\\webapiropa\\webapiropa\\webapiropa\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{49ABB21B-AE34-4AFD-9C8D-8D4794334139}|WebApiRopa.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49ABB21B-AE34-4AFD-9C8D-8D4794334139}|WebApiRopa.csproj|c:\\parcial2proweb\\webapiropa\\webapiropa\\webapiropa\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{49ABB21B-AE34-4AFD-9C8D-8D4794334139}|WebApiRopa.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49ABB21B-AE34-4AFD-9C8D-8D4794334139}|WebApiRopa.csproj|c:\\parcial2proweb\\webapiropa\\webapiropa\\webapiropa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49ABB21B-AE34-4AFD-9C8D-8D4794334139}|WebApiRopa.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49ABB21B-AE34-4AFD-9C8D-8D4794334139}|WebApiRopa.csproj|c:\\parcial2proweb\\webapiropa\\webapiropa\\webapiropa\\controllers\\prendas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49ABB21B-AE34-4AFD-9C8D-8D4794334139}|WebApiRopa.csproj|solutionrelative:controllers\\prendas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49ABB21B-AE34-4AFD-9C8D-8D4794334139}|WebApiRopa.csproj|c:\\parcial2proweb\\webapiropa\\webapiropa\\webapiropa\\controllers\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49ABB21B-AE34-4AFD-9C8D-8D4794334139}|WebApiRopa.csproj|solutionrelative:controllers\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49ABB21B-AE34-4AFD-9C8D-8D4794334139}|WebApiRopa.csproj|c:\\parcial2proweb\\webapiropa\\webapiropa\\webapiropa\\controllers\\colores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49ABB21B-AE34-4AFD-9C8D-8D4794334139}|WebApiRopa.csproj|solutionrelative:controllers\\colores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49ABB21B-AE34-4AFD-9C8D-8D4794334139}|WebApiRopa.csproj|c:\\parcial2proweb\\webapiropa\\webapiropa\\webapiropa\\webapiropa.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{49ABB21B-AE34-4AFD-9C8D-8D4794334139}|WebApiRopa.csproj|solutionrelative:webapiropa.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49ABB21B-AE34-4AFD-9C8D-8D4794334139}|WebApiRopa.csproj|c:\\parcial2proweb\\webapiropa\\webapiropa\\webapiropa\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49ABB21B-AE34-4AFD-9C8D-8D4794334139}|WebApiRopa.csproj|solutionrelative:models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49ABB21B-AE34-4AFD-9C8D-8D4794334139}|WebApiRopa.csproj|c:\\parcial2proweb\\webapiropa\\webapiropa\\webapiropa\\controllers\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49ABB21B-AE34-4AFD-9C8D-8D4794334139}|WebApiRopa.csproj|solutionrelative:controllers\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\parcial2proweb\\WebApiRopa\\WebApiRopa\\WebApiRopa\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "Models\\Categoria.cs",
+              "ToolTip": "C:\\parcial2proweb\\WebApiRopa\\WebApiRopa\\WebApiRopa\\Models\\Categoria.cs",
+              "RelativeToolTip": "Models\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T01:06:46.946Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\parcial2proweb\\WebApiRopa\\WebApiRopa\\WebApiRopa\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\parcial2proweb\\WebApiRopa\\WebApiRopa\\WebApiRopa\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-17T23:08:54.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\parcial2proweb\\WebApiRopa\\WebApiRopa\\WebApiRopa\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\parcial2proweb\\WebApiRopa\\WebApiRopa\\WebApiRopa\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T23:23:24.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Status.cs",
+              "DocumentMoniker": "C:\\parcial2proweb\\WebApiRopa\\WebApiRopa\\WebApiRopa\\Controllers\\Status.cs",
+              "RelativeDocumentMoniker": "Controllers\\Status.cs",
+              "ToolTip": "C:\\parcial2proweb\\WebApiRopa\\WebApiRopa\\WebApiRopa\\Controllers\\Status.cs",
+              "RelativeToolTip": "Controllers\\Status.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T13:21:30.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Prendas.cs",
+              "DocumentMoniker": "C:\\parcial2proweb\\WebApiRopa\\WebApiRopa\\WebApiRopa\\Controllers\\Prendas.cs",
+              "RelativeDocumentMoniker": "Controllers\\Prendas.cs",
+              "ToolTip": "C:\\parcial2proweb\\WebApiRopa\\WebApiRopa\\WebApiRopa\\Controllers\\Prendas.cs",
+              "RelativeToolTip": "Controllers\\Prendas.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T01:18:43.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Colores.cs",
+              "DocumentMoniker": "C:\\parcial2proweb\\WebApiRopa\\WebApiRopa\\WebApiRopa\\Controllers\\Colores.cs",
+              "RelativeDocumentMoniker": "Controllers\\Colores.cs",
+              "ToolTip": "C:\\parcial2proweb\\WebApiRopa\\WebApiRopa\\WebApiRopa\\Controllers\\Colores.cs",
+              "RelativeToolTip": "Controllers\\Colores.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T01:17:39.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Marca.cs",
+              "DocumentMoniker": "C:\\parcial2proweb\\WebApiRopa\\WebApiRopa\\WebApiRopa\\Controllers\\Marca.cs",
+              "RelativeDocumentMoniker": "Controllers\\Marca.cs",
+              "ToolTip": "C:\\parcial2proweb\\WebApiRopa\\WebApiRopa\\WebApiRopa\\Controllers\\Marca.cs",
+              "RelativeToolTip": "Controllers\\Marca.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T01:18:23.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WebApiRopa.csproj",
+              "DocumentMoniker": "C:\\parcial2proweb\\WebApiRopa\\WebApiRopa\\WebApiRopa\\WebApiRopa.csproj",
+              "RelativeDocumentMoniker": "WebApiRopa.csproj",
+              "ToolTip": "C:\\parcial2proweb\\WebApiRopa\\WebApiRopa\\WebApiRopa\\WebApiRopa.csproj",
+              "RelativeToolTip": "WebApiRopa.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-15T01:06:28.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\parcial2proweb\\WebApiRopa\\WebApiRopa\\WebApiRopa\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\parcial2proweb\\WebApiRopa\\WebApiRopa\\WebApiRopa\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAB+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-15T01:05:11.837Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

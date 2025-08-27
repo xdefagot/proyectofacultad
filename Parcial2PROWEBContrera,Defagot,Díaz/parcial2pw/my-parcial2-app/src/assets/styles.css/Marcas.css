@@ -1,0 +1,48 @@
+
+.table-marcas {
+  border-radius: 12px;
+  background-color: #ffffffee;
+  box-shadow: 0 0 10px #ffd6f9;
+}
+
+.table-marcas thead th {
+  background-color: #fce4ec;
+  color: #ec6aa6;
+  font-weight: 600;
+  text-align: center;
+}
+
+.table-marcas tbody td {
+  text-align: center;
+  padding: 12px;
+  
+}
+
+.table-marcas th:first-child,
+.table-marcas td:first-child {
+  width: 20%;
+  text-align: center;
+}
+
+.table-marcas td:first-child {
+  font-weight: 600;
+  font-size: 1.1rem;
+  color: #b260c9;
+  text-shadow: 0 0 4px #e6d1ff;
+}
+
+
+.table-marcas tbody tr:hover {
+   background-color: #fff0f7;
+  box-shadow: 0 0 8px #fbd9ee;
+  transition: all 0.3s ease;
+}
+
+.card-titulo {
+  font-weight: 700;
+  color: #ec6aa6;
+  text-shadow: 0 0 2px #ffd6f0;
+  margin-bottom: 1.5rem;
+  text-align:left;
+}
+

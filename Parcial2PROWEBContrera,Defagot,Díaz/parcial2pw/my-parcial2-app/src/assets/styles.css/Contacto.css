@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400;600;700&display=swap');
+
+.section-contacto {
+  font-family: 'Quicksand', sans-serif;
+  padding: 2rem;
+  margin-top: 3rem;
+  background-color: #ffffff;
+  text-align: center;
+  border-radius: 16px;
+  box-shadow: 0 0 5px #ffd6f9;
+  font-weight: bold;
+}
+
+h1, h2 {
+  color: #ec6aa6;
+  text-shadow: 0 0 5px #ffd6f0;
+  margin-bottom: 1.5rem;
+}
+
+.lead {
+  color: #666;
+  margin-bottom: 2rem;
+  font-weight: bold;
+}
+
+a {
+  color: #ec6aa6;
+  text-decoration: none;
+  font-weight: 600;
+  font-weight: bolder;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #d45d9c;
+}
+
+
+input.form-control {
+  border: 2px solid #fcbfe9;
+  border-radius: 12px;
+  box-shadow: 0 0 5px #ffd6f9;
+  transition: box-shadow 0.3s ease;
+}
+
+input.form-control:focus {
+  outline: none;
+  box-shadow: 0 0 8px #fbc5ee;
+  border-color: #ec6aa6;
+}
+
+.btn-dark {
+  background-color: #ec6aa6;
+  border-color: #ec6aa6;
+  border-radius: 12px;
+  box-shadow: 0 0 6px #fcbfe9;
+  transition: all 0.3s ease;
+}
+
+.btn-dark:hover {
+  background-color: #d45d9c;
+  border-color: #d45d9c;
+  box-shadow: 0 0 10px #ffd6f0;
+}

@@ -1,0 +1,89 @@
+import { useAuth } from "../Context/AuthContext";
+import { useEffect, useState } from "react";
+
+const Logout = () => {
+const { logout } = useAuth();
+
+ const Logout = () => {
+  const { logout, isAuthenticated } = useAuth();
+  const [showModal, setShowModal] = useState(false);
+
+  return (
+    <>
+      {isAuthenticated && (
+        <button onClick={() => setShowModal(true)} style={{
+          backgroundColor: "#ec6aa6",
+          color: "#ffffff",
+          fontWeight: "600",
+          borderRadius: "12px",
+          padding: "0.5rem 1.5rem",
+          boxShadow: "0 0 8px #ffd6f9",
+          border: "none",
+          cursor: "pointer",
+          transition: "all 0.3s ease",
+        }}>
+          Salir
+        </button>
+      )}
+
+      {showModal && (
+        <div style={{
+          position: "fixed",
+          top: "0",
+          left: "0",
+          width: "100vw",
+          height: "100vh",
+          background: "rgba(0, 0, 0, 0.3)",
+          display: "flex",
+          justifyContent: "center",
+          alignItems: "center",
+        }}>
+          <div style={{
+            width: "320px",
+            padding: "20px",
+            borderRadius: "16px",
+            backgroundColor: "#fffafc",
+            boxShadow: "0 0 15px #ffd6f9",
+            textAlign: "center",
+            animation: "fadeIn 0.4s ease-in-out",
+          }}>
+            <h2>Adiós♥️</h2>
+            <p>¿Seguro que quieres cerrar sesión?</p>
+            <button onClick={() => {  
+              logout();
+              setShowModal(false);
+            }} style={{
+              backgroundColor: "#c5e1f8",
+              fontWeight: "600",
+              borderRadius: "12px",
+              padding: "0.5rem 1.5rem",
+              boxShadow: "0 0 8px #d0f0ff",
+              border: "none",
+              cursor: "pointer",
+              transition: "all 0.3s ease",
+              marginRight: "10px",
+            }}>
+              Confirmar
+            </button>
+            <button onClick={() => setShowModal(false)} style={{
+              backgroundColor: "#ffb6e0",
+              fontWeight: "600",
+              borderRadius: "12px",
+              padding: "0.5rem 1.5rem",
+              boxShadow: "0 0 8px #ffd6f9",
+              border: "none",
+              cursor: "pointer",
+              transition: "all 0.3s ease",
+            }}>
+              Cancelar
+            </button>
+          </div>
+        </div>
+      )}
+    </>
+  );
+};
+}
+
+
+export default Logout;

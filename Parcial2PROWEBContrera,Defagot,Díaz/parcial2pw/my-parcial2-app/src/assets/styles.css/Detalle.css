@@ -1,0 +1,40 @@
+.titulo-detalle {
+  font-weight: 700;
+  color: #ec6aa6;
+  text-shadow: 0 0 2px #ffd6f0;
+  text-align: left;
+  margin-bottom: 1.5rem;
+}
+
+.card-detalle {
+  background-color: #fffafc;
+  border-radius: 16px;
+  box-shadow: 0 0 12px #ffd6f9;
+  padding: 2rem;
+}
+
+.list-group-item {
+  background-color: #ffffffdd;
+  border-radius: 12px;
+  font-size: 1.1rem;
+  padding: 12px;
+}
+
+.list-group-item strong {
+  color: #ec6aa6;
+}
+
+.btn-volver {
+  background-color: #ec6aa6;
+  color: #f2eff0;
+  font-weight: 600;
+  border-radius: 12px;
+  padding: 0.5rem 1.5rem;
+  box-shadow: 0 0 8px #ec6aa6;
+  transition: all 0.3s ease;
+}
+
+.btn-volver:hover {
+  background-color: #ec6aa6;
+  box-shadow: 0 0 12px
+}

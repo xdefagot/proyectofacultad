@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400;600;700&display=swap');
+
+.div-navbar {
+  background: linear-gradient(90deg, #fff 0%, #fce4ec 100%);
+  box-shadow: 0 0 px #f8bbd0;
+  border-radius: 0 0 12px 12px;
+  color: #ec6aa6;
+  font-size: 1rem;
+  text-shadow: 0 0 3px #ffd6f0;
+  color: #555;
+  margin-right: 1rem;
+  transition: all 0.3s ease;
+  font-weight: bold;
+}
+
+.navbar-nav .nav-link:hover {
+  color: #ec6aa6;
+  text-shadow: 0 0 3px #ffd6f0;
+}
