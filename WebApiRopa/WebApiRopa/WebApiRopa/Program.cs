@@ -4,7 +4,7 @@ using System.Text.Json.Serialization;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.ss
+// Add services to the container.
 builder.Services.AddControllers()
     .AddJsonOptions(x =>
         x.JsonSerializerOptions.ReferenceHandler = ReferenceHandler.IgnoreCycles); 
@@ -23,12 +23,10 @@ builder.Services.AddCors(options =>
 
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
-if (app.Environment.IsDevelopment())
-{
-    app.UseSwagger();
-    app.UseSwaggerUI();
-}
+// --- CAMBIO AQUÍ: Swagger habilitado para producción ---
+app.UseSwagger();
+app.UseSwaggerUI();
+// -------------------------------------------------------
 
 app.UseCors("AllowReactApp");
 
