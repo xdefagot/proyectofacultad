@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebApiRopa")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8890891d8a0dbd3cab4d4038e158e821ca487fec")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebApiRopa")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebApiRopa")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

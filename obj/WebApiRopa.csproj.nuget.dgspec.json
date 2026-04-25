@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\gestiondestockapp\\WebApiRopa\\WebApiRopa\\WebApiRopa\\WebApiRopa.csproj": {}
+    "C:\\gestiondestockapp\\WebApiRopa.csproj": {}
   },
   "projects": {
-    "C:\\gestiondestockapp\\WebApiRopa\\WebApiRopa\\WebApiRopa\\WebApiRopa.csproj": {
+    "C:\\gestiondestockapp\\WebApiRopa.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\gestiondestockapp\\WebApiRopa\\WebApiRopa\\WebApiRopa\\WebApiRopa.csproj",
+        "projectUniqueName": "C:\\gestiondestockapp\\WebApiRopa.csproj",
         "projectName": "WebApiRopa",
-        "projectPath": "C:\\gestiondestockapp\\WebApiRopa\\WebApiRopa\\WebApiRopa\\WebApiRopa.csproj",
+        "projectPath": "C:\\gestiondestockapp\\WebApiRopa.csproj",
         "packagesPath": "C:\\Users\\ximed\\.nuget\\packages\\",
-        "outputPath": "C:\\gestiondestockapp\\WebApiRopa\\WebApiRopa\\WebApiRopa\\obj\\",
+        "outputPath": "C:\\gestiondestockapp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

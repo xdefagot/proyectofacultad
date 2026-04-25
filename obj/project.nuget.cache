@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ubooTsrp3JA=",
+  "dgSpecHash": "D3dl0doWDqQ=",
   "success": true,
-  "projectFilePath": "C:\\gestiondestockapp\\WebApiRopa\\WebApiRopa\\WebApiRopa\\WebApiRopa.csproj",
+  "projectFilePath": "C:\\gestiondestockapp\\WebApiRopa.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ximed\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\ximed\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
